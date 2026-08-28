@@ -85,7 +85,7 @@ This project is built for educational, portfolio, and hackathon evaluation purpo
 
 ---
 
-### The last pass:
+### The last step:
 1. Save this `README.md` in your project.
 2. Create the file `requirements.txt` with the dependencies:
    ```text
