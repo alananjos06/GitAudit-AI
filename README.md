@@ -85,9 +85,9 @@ This project is built for educational, portfolio, and hackathon evaluation purpo
 
 ---
 
-### The next pass:
-1. Save this `README.md` no seu projeto.
-2. Crie o arquivo `requirements.txt` com as dependências:
+### The last pass:
+1. Save this `README.md` in your project.
+2. Create the file `requirements.txt` with the dependencies:
    ```text
    openai
    python-dotenv
