@@ -65,3 +65,8 @@ Once executed, the agent prints a detailed analysis classifying claims into:
 ⚠️ Partially supported
 ❌ Unsubstantiated / Exaggerated
 It also outputs a final Resume Match Score and automatically saves a markdown copy (audit_report_<repo>_<timestamp>.md) locally.
+
+## Execution Traces & Evidence
+
+To comply with the challenge requirements regarding execution traces, this repository includes sample audit reports generated autonomously by the agent. You can check them out in the [`traces/`](./traces/) directory:
+- [Sample Audit Report](./traces/audit_report_exemplo.md)
